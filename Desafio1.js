@@ -33,10 +33,8 @@ class ProductsManager {
             })
         }
         
-        
-
-        
         ProductsManager.id++
+
     }
 
     getProducts(){
